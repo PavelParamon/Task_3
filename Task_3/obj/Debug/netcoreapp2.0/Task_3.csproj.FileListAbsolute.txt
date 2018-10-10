@@ -1,0 +1,11 @@
+c:\users\pavel\source\repos\Task_3\Task_3\bin\Debug\netcoreapp2.0\Task_3.deps.json
+c:\users\pavel\source\repos\Task_3\Task_3\bin\Debug\netcoreapp2.0\Task_3.runtimeconfig.json
+c:\users\pavel\source\repos\Task_3\Task_3\bin\Debug\netcoreapp2.0\Task_3.runtimeconfig.dev.json
+c:\users\pavel\source\repos\Task_3\Task_3\bin\Debug\netcoreapp2.0\Task_3.dll
+c:\users\pavel\source\repos\Task_3\Task_3\bin\Debug\netcoreapp2.0\Task_3.pdb
+c:\users\pavel\source\repos\Task_3\Task_3\obj\Debug\netcoreapp2.0\Task_3.csprojResolveAssemblyReference.cache
+c:\users\pavel\source\repos\Task_3\Task_3\obj\Debug\netcoreapp2.0\Task_3.csproj.CoreCompileInputs.cache
+c:\users\pavel\source\repos\Task_3\Task_3\obj\Debug\netcoreapp2.0\Task_3.AssemblyInfoInputs.cache
+c:\users\pavel\source\repos\Task_3\Task_3\obj\Debug\netcoreapp2.0\Task_3.AssemblyInfo.cs
+c:\users\pavel\source\repos\Task_3\Task_3\obj\Debug\netcoreapp2.0\Task_3.dll
+c:\users\pavel\source\repos\Task_3\Task_3\obj\Debug\netcoreapp2.0\Task_3.pdb
